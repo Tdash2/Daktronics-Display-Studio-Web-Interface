@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "C5evJCpsCyc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tj\\Desktop\\Display Studio Web Interface\\Display Studio Web Interface\\Display Studio Web Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tj\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.2\\microsoft.net.illink.tasks.9.0.2.nupkg.sha512",
+    "C:\\Users\\tj\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\tj\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\tj\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

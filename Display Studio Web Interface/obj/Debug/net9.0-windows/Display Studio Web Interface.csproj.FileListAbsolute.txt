@@ -1,0 +1,19 @@
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\bin\Debug\net9.0-windows\Display Studio Web Interface.exe
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\bin\Debug\net9.0-windows\Display Studio Web Interface.deps.json
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\bin\Debug\net9.0-windows\Display Studio Web Interface.runtimeconfig.json
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\bin\Debug\net9.0-windows\Display Studio Web Interface.dll
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\bin\Debug\net9.0-windows\Display Studio Web Interface.pdb
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\Display_Studio_Web_Interface.Form1.resources
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\Display Studio Web Interface.csproj.GenerateResource.cache
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\Display Studio Web Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\Display Studio Web Interface.AssemblyInfoInputs.cache
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\Display Studio Web Interface.AssemblyInfo.cs
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\Display Studio Web Interface.csproj.CoreCompileInputs.cache
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\Display Studio Web Interface.dll
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\refint\Display Studio Web Interface.dll
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\Display Studio Web Interface.pdb
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\Display Studio Web Interface.genruntimeconfig.cache
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\ref\Display Studio Web Interface.dll
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\Display Studio Web Interface.csproj.AssemblyReference.cache
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\bin\Debug\net9.0-windows\QRCoder.dll
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\obj\Debug\net9.0-windows\Display .5732DB30.Up2Date

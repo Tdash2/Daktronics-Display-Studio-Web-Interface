@@ -1,0 +1,2 @@
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\bin\Release\net9.0-windows\publish\win-x64\Display Studio Web Interface.pdb
+C:\Users\tj\Desktop\Display Studio Web Interface\Display Studio Web Interface\bin\Release\net9.0-windows\publish\win-x64\Display Studio Web Interface.exe
