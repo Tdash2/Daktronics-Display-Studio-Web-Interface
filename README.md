@@ -1,2 +1,2 @@
 # Daktronics-Display-Studio-Web-Interface
-A web interface for daktronics display studio. 
+A web interface for daktronics display studio. This Program needs to run on the same computer as display studio is running on. The program will host the web ui on port 80. When you start the program it will take a few minutes to connect to display studio. After that the program will start the web server. If you want it to resync go to File>Refresh Buttons. It will take a few minutes to resync then you will have to refresh the webpage. 
